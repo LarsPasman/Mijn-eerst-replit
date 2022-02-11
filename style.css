@@ -1,0 +1,29 @@
+body {
+
+  width: 100% ;
+    font-size: 14px ;
+    color: rgb(66, 166, 248);
+}
+h1 {
+  
+    color: rgb(231, 16, 185);
+    letter-spacing: 0ch ;
+    word-spacing: 0cm ;
+    text-align: center ;
+    line-height: 9cm
+}
+
+body{
+background-color: darkblue ;
+: 
+}
+h2  {
+  font-weight:bold ;
+
+}
+p {
+    letter-spacing: 0em;
+    word-spacing: 1px;
+    line-height: 4em;
+    text-align: center;
+}
